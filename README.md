@@ -22,4 +22,16 @@ $ git add xxxx.xx</br>
 $ git commit -m 'message'</br>
 $ git push -u ml feature </br>
 
+<b>更换分支</b>
+
+$ git checkout feature</br>
+  
+<b>合并分支</b></br>
+
+$ git merge feature</br>
+
+<b>删除分支</b></br>
+
+$ git branch -d feature</br>
+
 </p>
