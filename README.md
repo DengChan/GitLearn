@@ -1,15 +1,25 @@
 # GitLearn
 <p>
-本地建立仓库
-$ git init
-连接远程仓库
-$ git remote add ml git@github.com:DengChan/MLStudy.git
-克隆到本地(ml 为连接名)
-$ git pull ml master
-建立分支
-$ git branch feature
-三部曲
-$ git add xxxx.xx
-$ git commit -m 'message'
-$ git push -u ml feature 
+<b>本地建立仓库</b></br>
+
+$ git init</br>
+
+<b>连接远程仓库</b></br>
+
+$ git remote add ml git@github.com:DengChan/MLStudy.git</br>
+
+<b>克隆到本地(ml 为连接名)</b></br>
+
+$ git pull ml master</br>
+
+<b>建立分支</b></br>
+
+$ git branch feature</br>
+
+<b>三部曲</b></br>
+
+$ git add xxxx.xx</br>
+$ git commit -m 'message'</br>
+$ git push -u ml feature </br>
+
 </p>
