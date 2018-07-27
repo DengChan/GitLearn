@@ -34,4 +34,7 @@ $ git merge feature</br>
 
 $ git branch -d feature</br>
 
+<b>撤销add</b></br>
+$ git reset head   #撤销上一次的所有add</br>
+$ git reset head [文件名] #撤销指定文件add</br>
 </p>
